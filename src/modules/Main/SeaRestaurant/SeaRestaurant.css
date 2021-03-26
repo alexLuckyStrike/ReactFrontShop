@@ -1,0 +1,7 @@
+.SeaRestaurant{
+    min-height: inherit;
+    box-shadow: inset 0 0 2px 2px red;
+    border-top: 1px solid transparent;
+    position: relative;
+}
+

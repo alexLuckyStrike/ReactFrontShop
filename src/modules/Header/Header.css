@@ -1,0 +1,30 @@
+.header{
+    min-height: 15vh;
+    background-color: orange;
+}
+
+.navigation{
+    min-height: inherit;
+}
+
+.navigation-menu{
+    min-height: inherit;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+
+.navigation-menuItem{
+    min-height: inherit;
+}
+
+
+.navigation-menuItem__Link{
+    color:black;
+    font-size: 25px;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    min-height: inherit;
+}

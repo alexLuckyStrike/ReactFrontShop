@@ -1,0 +1,6 @@
+.Basket{
+    position: absolute;
+    right: 5%;
+    width: 20%;
+    min-height: 50px;
+}
