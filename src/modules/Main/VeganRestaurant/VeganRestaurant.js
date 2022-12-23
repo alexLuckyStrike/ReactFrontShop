@@ -79,8 +79,11 @@ class VeganRestaurant extends React.Component{
 
                 <Basket
                     dish = {this.state.statement}
+
                     amount = {this.state.status}
+
                     inserts = {this.state.order}
+
                     reBuild = {this.onChanger.bind(this)}
                 >
 
